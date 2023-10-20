@@ -2,3 +2,39 @@ body{
     margin: 0;
     font-family: arial;
 }
+
+#wrapper{
+    width: 1280px;
+    margin: 0 auto;
+    background: white;
+}
+
+#main-navigation{
+    padding: 10px;
+    text-align: center;
+}
+
+#main-navigation ul{
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+#main-navigation li{
+    display: inline-block;
+    padding: 10px;
+}
+
+#main-navigation a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 10px;
+}
+
+
+
+#banner img{
+    width: 100%;
+    height: auto;
+}
